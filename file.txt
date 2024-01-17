@@ -1,0 +1,15 @@
+https://github.com/ergovind08/user_auth_firebase.git
+
+echo "# user_auth_firebase" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M futureadda
+git remote add origin https://github.com/ergovind08/user_auth_firebase.git
+git push -u origin futureadda
+
+
+
+git remote add origin https://github.com/ergovind08/user_auth_firebase.git
+git branch -M futureadda
+git push -u origin futureadda
